@@ -1,0 +1,1965 @@
+07-31 09:15 analysis     INFO     Running analysis for year 2003
+07-31 09:15 analysis     INFO     Run analysis on col cumoveroverlap
+07-31 09:15 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 8), (2, 8), (3, 5), (4, 11), (5, 19)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 7), (2, 10), (3, 9), (4, 11), (5, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 10), (1, 11), (2, 10), (3, 8), (4, 12), (5, 5)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 14), (2, 10), (3, 12), (4, 7), (5, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 9), (2, 13), (3, 10), (4, 8), (5, 5)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 7), (2, 5), (3, 12), (4, 7), (5, 8)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 10), (2, 35)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 20), (1, 24), (2, 12)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 25), (1, 22), (2, 9)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 12), (2, 28)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 28), (2, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 16), (2, 14)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 29), (1, 27)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 29)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 30)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 30), (1, 26)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col avgdistovermatches
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 4), (1, 6), (2, 10), (3, 7), (4, 9), (5, 20)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 12), (2, 8), (3, 9), (4, 5), (5, 4)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 7), (2, 10), (3, 14), (4, 4), (5, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 7), (2, 13), (3, 9), (4, 14), (5, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 12), (1, 13), (2, 7), (3, 7), (4, 14), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 11), (2, 8), (3, 10), (4, 10), (5, 10)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 10), (2, 35)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 19), (2, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 27), (2, 7)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 31), (1, 15), (2, 10)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 24), (2, 26)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 17), (2, 20)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 41)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 41), (1, 15)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 35), (1, 21)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 21), (1, 35)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 33), (1, 23)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 33)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col cumdist
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 4), (2, 6), (3, 6), (4, 14), (5, 20)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 10), (1, 11), (2, 10), (3, 9), (4, 6), (5, 10)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 13), (2, 8), (3, 9), (4, 11), (5, 9)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 10), (2, 16), (3, 9), (4, 10), (5, 5)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 10), (2, 11), (3, 12), (4, 7), (5, 7)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 8), (2, 5), (3, 11), (4, 8), (5, 5)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 12), (1, 11), (2, 33)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 21), (1, 21), (2, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 24), (2, 9)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 13), (2, 25)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 12), (1, 30), (2, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 13), (2, 17)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 38)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 38), (1, 18)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 21), (1, 35)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 35), (1, 21)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col overlap
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 3), (1, 7), (2, 7), (3, 13), (4, 12), (5, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 10), (2, 13), (3, 8), (4, 6), (5, 2)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 6), (2, 5), (3, 11), (4, 9), (5, 19)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 18), (2, 9), (3, 9), (4, 7), (5, 2)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 2), (2, 10), (3, 8), (4, 16), (5, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 13), (2, 12), (3, 7), (4, 6), (5, 5)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 20), (1, 18), (2, 18)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 16), (2, 21)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 22), (2, 17)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 15), (2, 19)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 26), (2, 15)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 15), (2, 22)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 43)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 43), (1, 13)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 40)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 40), (1, 16)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 40)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 40), (1, 16)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col avgdist
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 4), (1, 8), (2, 10), (3, 5), (4, 8), (5, 21)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 8), (2, 8), (3, 11), (4, 7), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 9), (2, 7), (3, 10), (4, 12), (5, 10)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 11), (2, 11), (3, 11), (4, 8), (5, 9)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 9), (2, 8), (3, 12), (4, 15), (5, 4)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 11), (2, 12), (3, 7), (4, 6), (5, 9)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 9), (2, 30)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 23), (2, 16)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 24), (2, 10)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 14), (2, 15)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 10), (1, 23), (2, 23)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 19), (2, 18)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 41)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 41), (1, 15)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 29)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 29), (1, 27)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 24), (1, 32)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 32), (1, 24)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 336
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 336
+07-31 09:16 analysis     INFO     draw: 504
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 392
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 336
+07-31 09:16 analysis     INFO     draw: 448
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 336
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 392
+07-31 09:16 analysis     INFO     draw: 448
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Running analysis for year 2004
+07-31 09:16 analysis     INFO     Run analysis on col cumoveroverlap
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(2, 3), (3, 5), (4, 9), (5, 39)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 3), (1, 6), (2, 28), (3, 7), (4, 8), (5, 4)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(1, 1), (2, 10), (3, 19), (4, 19), (5, 7)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 24), (2, 7), (3, 4), (4, 2), (5, 1)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 4), (2, 6), (3, 21), (4, 15), (5, 5)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 30), (1, 21), (2, 2), (4, 3)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 8), (2, 43)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 21), (1, 27), (2, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 30), (1, 21), (2, 5)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 3), (1, 10), (2, 43)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 30), (2, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 35), (1, 16), (2, 5)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 50)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 50), (1, 6)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 50)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 50), (1, 6)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 48)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 48), (1, 8)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col avgdistovermatches
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 1), (1, 7), (2, 7), (3, 9), (4, 11), (5, 21)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 5), (2, 20), (3, 7), (4, 9), (5, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 4), (2, 7), (3, 18), (4, 14), (5, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 17), (2, 13), (3, 5), (4, 5), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 6), (2, 7), (3, 12), (4, 13), (5, 12)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 17), (2, 2), (3, 5), (4, 4), (5, 1)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 14), (2, 26)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 21), (2, 17)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 21), (2, 13)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 8), (2, 39)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 30), (2, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 32), (1, 18), (2, 6)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 39)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 39), (1, 17)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 43)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 43), (1, 13)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 45)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 45), (1, 11)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col cumdist
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 4), (1, 1), (2, 8), (3, 9), (4, 16), (5, 18)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 6), (2, 18), (3, 8), (4, 9), (5, 13)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 4), (1, 6), (2, 7), (3, 17), (4, 12), (5, 10)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 17), (2, 9), (3, 6), (4, 4), (5, 5)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 6), (2, 5), (3, 15), (4, 15), (5, 9)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 25), (1, 20), (2, 9), (3, 1), (5, 1)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 15), (2, 27)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 20), (2, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 20), (1, 21), (2, 15)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 4), (1, 10), (2, 42)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 31), (2, 9)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 36), (1, 15), (2, 5)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 33)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 33), (1, 23)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 40)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 40), (1, 16)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 10), (1, 46)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 46), (1, 10)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col overlap
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 8), (2, 3), (3, 11), (4, 5), (5, 6)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 9), (2, 15), (3, 9), (4, 8), (5, 9)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 13), (2, 5), (3, 4), (4, 10), (5, 15)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 16), (2, 12), (3, 8), (4, 8), (5, 7)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 6), (2, 7), (3, 3), (4, 20), (5, 15)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 4), (2, 14), (3, 21), (4, 5), (5, 4)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 33), (1, 12), (2, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 23), (2, 17)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 21), (2, 28)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 15), (2, 22)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 25), (2, 13)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 16), (2, 21)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 36), (1, 20)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 20), (1, 36)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 38)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 38), (1, 18)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col avgdist
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 7), (2, 13), (3, 8), (4, 8), (5, 12)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 4), (2, 11), (3, 10), (4, 10), (5, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 4), (2, 6), (3, 14), (4, 16), (5, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 10), (1, 18), (2, 9), (3, 6), (4, 10), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 4), (2, 11), (3, 13), (4, 9), (5, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 21), (1, 19), (2, 6), (3, 5), (4, 3), (5, 2)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 24), (1, 15), (2, 17)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 24), (2, 18)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 17), (2, 21)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 5), (2, 42)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 33), (2, 9)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 33), (1, 18), (2, 5)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 39)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 39), (1, 17)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 42)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 42), (1, 14)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 224
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 560
+07-31 09:16 analysis     INFO     draw: 112
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 112
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 672
+07-31 09:16 analysis     INFO     draw: 112
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 224
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 560
+07-31 09:16 analysis     INFO     draw: 112
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Running analysis for year 2005
+07-31 09:16 analysis     INFO     Run analysis on col cumoveroverlap
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 1), (1, 2), (2, 9), (3, 10), (4, 14), (5, 20)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(2, 5), (3, 10), (4, 12), (5, 29)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 20), (2, 7), (3, 6), (4, 7), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 14), (2, 12), (3, 13), (4, 12), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 14), (2, 12), (3, 2), (4, 5)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 6), (2, 11), (3, 15), (4, 6), (5, 1)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 4), (1, 4), (2, 48)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 32), (2, 7)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 35), (1, 20), (2, 1)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 6), (2, 48)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 33), (2, 7)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 38), (1, 17), (2, 1)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 34), (1, 22)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 34)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 37), (1, 19)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 37)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 34), (1, 22)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 34)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col avgdistovermatches
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 1), (1, 3), (2, 5), (3, 13), (4, 14), (5, 20)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 3), (1, 4), (2, 12), (3, 7), (4, 10), (5, 20)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 12), (1, 11), (2, 9), (3, 5), (4, 13), (5, 6)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 13), (2, 7), (3, 13), (4, 11), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 13), (2, 13), (3, 7), (4, 6), (5, 4)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 12), (2, 10), (3, 11), (4, 2), (5, 3)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 12), (2, 39)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 22), (2, 12)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 29), (1, 22), (2, 5)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 7), (2, 41)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 31), (2, 9)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 32), (1, 18), (2, 6)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 33)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 33), (1, 23)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 29), (1, 27)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 29)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col cumdist
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 1), (1, 5), (2, 14), (3, 11), (4, 14), (5, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(1, 1), (2, 1), (3, 7), (4, 11), (5, 36)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 21), (2, 10), (3, 5), (4, 4), (5, 1)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 5), (2, 12), (3, 14), (4, 15), (5, 5)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 12), (2, 10), (3, 5), (4, 2), (5, 1)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 12), (2, 9), (3, 14), (4, 10), (5, 2)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 3), (1, 11), (2, 42)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 29), (2, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 34), (1, 16), (2, 6)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 4), (1, 6), (2, 46)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 30), (2, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 34), (1, 20), (2, 2)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 43), (1, 13)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 43)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 43), (1, 13)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 43)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 38), (1, 18)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 38)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col overlap
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 16), (2, 16), (3, 7), (4, 3), (5, 7)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 1), (1, 1), (2, 3), (3, 11), (4, 14), (5, 26)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 15), (2, 13), (3, 3), (4, 2)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 7), (2, 4), (3, 15), (4, 15), (5, 13)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 12), (2, 11), (3, 8), (4, 4), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 5), (2, 9), (3, 12), (4, 18), (5, 7)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 20), (2, 28)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 19), (2, 10)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 21), (1, 17), (2, 18)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 12), (1, 13), (2, 31)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 20), (1, 19), (2, 17)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 24), (1, 24), (2, 8)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 47), (1, 9)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 47)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 48), (1, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 48)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 39), (1, 17)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 39)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col avgdist
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 4), (1, 4), (2, 11), (3, 11), (4, 7), (5, 19)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 3), (2, 5), (3, 12), (4, 14), (5, 20)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 13), (2, 9), (3, 7), (4, 9), (5, 4)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 10), (2, 9), (3, 11), (4, 14), (5, 5)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 15), (2, 10), (3, 4), (4, 6), (5, 6)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 11), (2, 12), (3, 11), (4, 6), (5, 2)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 13), (2, 36)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 23), (2, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 20), (2, 9)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 12), (2, 39)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 25), (2, 13)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 33), (1, 19), (2, 4)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 32), (1, 24)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 24), (1, 32)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 35), (1, 21)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 21), (1, 35)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 30), (1, 26)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 30)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 672
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 672
+07-31 09:16 analysis     INFO     draw: 392
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 672
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 728
+07-31 09:16 analysis     INFO     draw: 336
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 672
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 728
+07-31 09:16 analysis     INFO     draw: 336
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Running analysis for year 2006
+07-31 09:16 analysis     INFO     Run analysis on col cumoveroverlap
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 1), (1, 1), (2, 5), (3, 8), (4, 10), (5, 31)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 7), (2, 13), (3, 4), (4, 15), (5, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 7), (2, 11), (3, 13), (4, 13), (5, 6)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 21), (2, 11), (3, 6), (4, 6), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 10), (1, 10), (2, 7), (3, 19), (4, 7), (5, 3)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 24), (1, 10), (2, 9), (3, 6), (4, 5), (5, 2)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 6), (2, 43)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 29), (2, 9)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 31), (1, 21), (2, 4)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 11), (2, 37)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 27), (2, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 30), (1, 18), (2, 8)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 41)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 41), (1, 15)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 20), (1, 36)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 36), (1, 20)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on cumoveroverlap
+07-31 09:16 analysis     INFO     ==========================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 20), (1, 36)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 36), (1, 20)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col avgdistovermatches
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 1), (1, 3), (2, 15), (3, 12), (4, 9), (5, 16)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 10), (1, 7), (2, 3), (3, 9), (4, 14), (5, 13)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 14), (2, 10), (3, 9), (4, 8), (5, 6)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 13), (2, 8), (3, 9), (4, 12), (5, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 9), (2, 11), (3, 6), (4, 8), (5, 6)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 10), (2, 9), (3, 11), (4, 5), (5, 7)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 8), (2, 37)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 18), (1, 27), (2, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 21), (2, 8)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 12), (2, 28)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 26), (2, 17)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 18), (2, 11)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 30)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 30), (1, 26)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdistovermatches
+07-31 09:16 analysis     INFO     ==============================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 29), (1, 27)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 29)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col cumdist
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 2), (2, 7), (3, 10), (4, 12), (5, 23)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 6), (2, 12), (3, 9), (4, 11), (5, 11)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 3), (1, 8), (2, 9), (3, 15), (4, 13), (5, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 12), (1, 23), (2, 9), (3, 6), (4, 2), (5, 4)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 6), (1, 4), (2, 12), (3, 12), (4, 15), (5, 7)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 13), (2, 7), (3, 4), (4, 3), (5, 3)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 11), (2, 34)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 22), (1, 22), (2, 12)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 23), (2, 10)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 13), (2, 35)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 25), (2, 12)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 29), (1, 18), (2, 9)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 20), (1, 36)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 36), (1, 20)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 43)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 43), (1, 13)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on cumdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 45)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 45), (1, 11)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col overlap
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 10), (1, 10), (2, 7), (3, 14), (4, 7), (5, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 12), (1, 11), (2, 8), (3, 11), (4, 7), (5, 7)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 4), (2, 10), (3, 12), (4, 20), (5, 8)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 14), (2, 14), (3, 3), (4, 7), (5, 2)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 5), (1, 3), (2, 5), (3, 8), (4, 11), (5, 24)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 11), (1, 14), (2, 12), (3, 8), (4, 4), (5, 7)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 32), (1, 14), (2, 10)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 25), (2, 17)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 10), (1, 17), (2, 29)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 19), (1, 14), (2, 23)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 23), (1, 18), (2, 15)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 24), (2, 18)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 30)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 30), (1, 26)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 13), (1, 43)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 43), (1, 13)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on overlap
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 41)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 41), (1, 15)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run analysis on col avgdist
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 2), (1, 3), (2, 10), (3, 18), (4, 9), (5, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 9), (1, 10), (2, 8), (3, 5), (4, 7), (5, 17)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 7), (1, 10), (2, 11), (3, 11), (4, 10), (5, 7)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 8), (1, 12), (2, 12), (3, 7), (4, 11), (5, 6)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 14), (1, 11), (2, 6), (3, 8), (4, 12), (5, 5)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 16), (1, 10), (2, 9), (3, 7), (4, 7), (5, 7)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 995 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 12), (1, 11), (2, 33)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 17), (1, 25), (2, 14)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 20), (2, 9)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run 850 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 13), (2, 28)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 15), (1, 23), (2, 18)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 20), (2, 10)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 26), (1, 30)]
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 30), (1, 26)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 analysis
+
+07-31 09:16 analysis     INFO     Position on avgdist
+07-31 09:16 analysis     INFO     ===================
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 27), (1, 29)]
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:16 analysis     INFO       [(0, 29), (1, 27)]
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 1 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 224
+07-31 09:16 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 224
+07-31 09:16 analysis     INFO     draw: 112
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 2 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 336
+07-31 09:16 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 168
+07-31 09:16 analysis     INFO     draw: 56
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Run scale 3 wld
+
+07-31 09:16 analysis     INFO     Win Lose Draw
+07-31 09:16 analysis     INFO     =============
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 336
+07-31 09:16 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 168
+07-31 09:16 analysis     INFO     draw: 56
+07-31 09:16 analysis     INFO     
+07-31 09:16 analysis     INFO     Running analysis for year 2007
+07-31 09:16 analysis     INFO     Run analysis on col cumoveroverlap
+07-31 09:16 analysis     INFO     Run full analysis
+
+07-31 09:17 analysis     INFO     Position on cumoveroverlap
+07-31 09:17 analysis     INFO     ==========================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 3), (1, 5), (2, 9), (3, 13), (4, 11), (5, 15)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(1, 6), (2, 7), (3, 12), (4, 16), (5, 15)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 9), (1, 6), (2, 13), (3, 8), (4, 11), (5, 9)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 12), (1, 13), (2, 14), (3, 7), (4, 3), (5, 7)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 14), (1, 10), (2, 9), (3, 11), (4, 8), (5, 4)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 18), (1, 16), (2, 4), (3, 5), (4, 7), (5, 6)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 995 analysis
+
+07-31 09:17 analysis     INFO     Position on cumoveroverlap
+07-31 09:17 analysis     INFO     ==========================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 11), (1, 14), (2, 31)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 18), (1, 22), (2, 16)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 27), (1, 20), (2, 9)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 850 analysis
+
+07-31 09:17 analysis     INFO     Position on cumoveroverlap
+07-31 09:17 analysis     INFO     ==========================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 6), (1, 12), (2, 38)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 24), (1, 21), (2, 11)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 26), (1, 23), (2, 7)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 1 analysis
+
+07-31 09:17 analysis     INFO     Position on cumoveroverlap
+07-31 09:17 analysis     INFO     ==========================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 2 analysis
+
+07-31 09:17 analysis     INFO     Position on cumoveroverlap
+07-31 09:17 analysis     INFO     ==========================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 22), (1, 34)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 34), (1, 22)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 3 analysis
+
+07-31 09:17 analysis     INFO     Position on cumoveroverlap
+07-31 09:17 analysis     INFO     ==========================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run analysis on col avgdistovermatches
+07-31 09:17 analysis     INFO     Run full analysis
+
+07-31 09:17 analysis     INFO     Position on avgdistovermatches
+07-31 09:17 analysis     INFO     ==============================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 5), (1, 6), (2, 15), (3, 9), (4, 8), (5, 13)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 2), (1, 5), (2, 12), (3, 12), (4, 9), (5, 16)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 9), (1, 9), (2, 9), (3, 9), (4, 11), (5, 9)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 8), (1, 12), (2, 9), (3, 12), (4, 8), (5, 7)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 19), (1, 11), (2, 7), (3, 5), (4, 8), (5, 6)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 13), (1, 13), (2, 4), (3, 9), (4, 12), (5, 5)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 995 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdistovermatches
+07-31 09:17 analysis     INFO     ==============================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 11), (1, 20), (2, 25)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 16), (1, 19), (2, 21)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 29), (1, 17), (2, 10)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 850 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdistovermatches
+07-31 09:17 analysis     INFO     ==============================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 11), (1, 13), (2, 32)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 22), (1, 18), (2, 16)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 23), (1, 25), (2, 8)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 1 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdistovermatches
+07-31 09:17 analysis     INFO     ==============================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 2 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdistovermatches
+07-31 09:17 analysis     INFO     ==============================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 26), (1, 30)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 30), (1, 26)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 3 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdistovermatches
+07-31 09:17 analysis     INFO     ==============================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 33), (1, 23)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 23), (1, 33)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run analysis on col cumdist
+07-31 09:17 analysis     INFO     Run full analysis
+
+07-31 09:17 analysis     INFO     Position on cumdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 5), (1, 4), (2, 15), (3, 13), (4, 10), (5, 9)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 3), (1, 8), (2, 6), (3, 11), (4, 9), (5, 19)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 12), (1, 9), (2, 11), (3, 3), (4, 11), (5, 10)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 10), (1, 11), (2, 11), (3, 10), (4, 6), (5, 8)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 10), (1, 12), (2, 10), (3, 13), (4, 8), (5, 3)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 16), (1, 12), (2, 3), (3, 6), (4, 12), (5, 7)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 995 analysis
+
+07-31 09:17 analysis     INFO     Position on cumdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 11), (1, 17), (2, 28)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 22), (1, 15), (2, 19)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 23), (1, 24), (2, 9)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 850 analysis
+
+07-31 09:17 analysis     INFO     Position on cumdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 12), (1, 11), (2, 33)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 22), (1, 22), (2, 12)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 22), (1, 23), (2, 11)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 1 analysis
+
+07-31 09:17 analysis     INFO     Position on cumdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 34), (1, 22)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 22), (1, 34)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 2 analysis
+
+07-31 09:17 analysis     INFO     Position on cumdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 28), (1, 28)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 28), (1, 28)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 3 analysis
+
+07-31 09:17 analysis     INFO     Position on cumdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 26), (1, 30)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 30), (1, 26)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run analysis on col overlap
+07-31 09:17 analysis     INFO     Run full analysis
+
+07-31 09:17 analysis     INFO     Position on overlap
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 14), (1, 8), (2, 10), (3, 14), (4, 6), (5, 4)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 7), (1, 5), (2, 14), (3, 4), (4, 14), (5, 12)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 12), (1, 14), (2, 8), (3, 11), (4, 3), (5, 8)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 7), (1, 8), (2, 8), (3, 13), (4, 12), (5, 8)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 6), (1, 13), (2, 9), (3, 7), (4, 11), (5, 10)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 10), (1, 8), (2, 7), (3, 7), (4, 10), (5, 14)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 995 analysis
+
+07-31 09:17 analysis     INFO     Position on overlap
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 22), (1, 17), (2, 17)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 22), (1, 15), (2, 19)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 12), (1, 24), (2, 20)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 850 analysis
+
+07-31 09:17 analysis     INFO     Position on overlap
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 18), (1, 11), (2, 27)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 21), (1, 24), (2, 11)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 17), (1, 21), (2, 18)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 1 analysis
+
+07-31 09:17 analysis     INFO     Position on overlap
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 37), (1, 19)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 19), (1, 37)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 2 analysis
+
+07-31 09:17 analysis     INFO     Position on overlap
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 38), (1, 18)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 18), (1, 38)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 3 analysis
+
+07-31 09:17 analysis     INFO     Position on overlap
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 30), (1, 26)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 26), (1, 30)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run analysis on col avgdist
+07-31 09:17 analysis     INFO     Run full analysis
+
+07-31 09:17 analysis     INFO     Position on avgdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 14), (1, 13), (2, 11), (3, 7), (4, 4), (5, 7)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 4), (1, 6), (2, 12), (3, 11), (4, 12), (5, 11)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 10), (1, 7), (2, 9), (3, 10), (4, 11), (5, 9)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 7), (1, 6), (2, 7), (3, 14), (4, 10), (5, 12)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 11), (1, 16), (2, 9), (3, 6), (4, 7), (5, 7)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 10), (1, 8), (2, 8), (3, 8), (4, 12), (5, 10)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 995 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 24), (1, 18), (2, 14)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 13), (1, 14), (2, 29)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 19), (1, 24), (2, 13)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run 850 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 18), (1, 18), (2, 20)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 20), (1, 14), (2, 22)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 18), (1, 24), (2, 14)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 1 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 37), (1, 19)]
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 19), (1, 37)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 2 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 33), (1, 23)]
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 23), (1, 33)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 3 analysis
+
+07-31 09:17 analysis     INFO     Position on avgdist
+07-31 09:17 analysis     INFO     ===================
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 31), (1, 25)]
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+07-31 09:17 analysis     INFO       [(0, 25), (1, 31)]
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 1 wld
+
+07-31 09:17 analysis     INFO     Win Lose Draw
+07-31 09:17 analysis     INFO     =============
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 280
+07-31 09:17 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 280
+07-31 09:17 analysis     INFO     draw: 392
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 2 wld
+
+07-31 09:17 analysis     INFO     Win Lose Draw
+07-31 09:17 analysis     INFO     =============
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 336
+07-31 09:17 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 224
+07-31 09:17 analysis     INFO     draw: 392
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     Run scale 3 wld
+
+07-31 09:17 analysis     INFO     Win Lose Draw
+07-31 09:17 analysis     INFO     =============
+07-31 09:17 analysis     INFO     
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 280
+07-31 09:17 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 448
+07-31 09:17 analysis     INFO     draw: 224
+07-31 09:17 analysis     INFO     
