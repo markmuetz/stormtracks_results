@@ -1,0 +1,14 @@
+In [36]: hf, nhf = ca.apply_all_cutoffs(cd, h)
+
+In [37]: len(hf)
+Out[37]: 23000
+
+In [38]: len(nhf)
+Out[38]: 9804
+
+In [39]: sum(nhf[:, 0] > 0.00035)
+Out[39]: 5331
+
+In [40]: sum(hf[:, 0] > 0.00035)
+Out[40]: 19759
+
