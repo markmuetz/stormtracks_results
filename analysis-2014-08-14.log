@@ -1,0 +1,2650 @@
+08-14 19:18 analysis     INFO     Running tracking stats analysis for year 2000
+08-14 19:18 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:18 analysis     INFO     Run full analysis
+
+08-14 19:18 analysis     INFO     Analysing 56 ensemble members
+08-14 19:18 analysis     INFO     Position on cumoveroverlap
+08-14 19:18 analysis     INFO     ==========================
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 4), (1, 6), (2, 10), (3, 9), (4, 13), (5, 14)]
+08-14 19:18 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 2), (1, 1), (2, 4), (3, 10), (4, 16), (5, 23)]
+08-14 19:18 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 11), (1, 13), (2, 12), (3, 12), (4, 4), (5, 4)]
+08-14 19:18 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 5), (1, 12), (2, 11), (3, 12), (4, 8), (5, 8)]
+08-14 19:18 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 23), (1, 10), (2, 12), (3, 6), (4, 3), (5, 2)]
+08-14 19:18 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 11), (1, 14), (2, 7), (3, 7), (4, 12), (5, 5)]
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     Run 995 analysis
+
+08-14 19:18 analysis     INFO     Analysing 56 ensemble members
+08-14 19:18 analysis     INFO     Position on cumoveroverlap
+08-14 19:18 analysis     INFO     ==========================
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 6), (1, 11), (2, 39)]
+08-14 19:18 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 17), (1, 27), (2, 12)]
+08-14 19:18 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 33), (1, 18), (2, 5)]
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     Run 850 analysis
+
+08-14 19:18 analysis     INFO     Analysing 56 ensemble members
+08-14 19:18 analysis     INFO     Position on cumoveroverlap
+08-14 19:18 analysis     INFO     ==========================
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 7), (1, 12), (2, 37)]
+08-14 19:18 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 18), (1, 27), (2, 11)]
+08-14 19:18 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 31), (1, 17), (2, 8)]
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     Run scale 1 analysis
+
+08-14 19:18 analysis     INFO     Analysing 56 ensemble members
+08-14 19:18 analysis     INFO     Position on cumoveroverlap
+08-14 19:18 analysis     INFO     ==========================
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 37), (1, 19)]
+08-14 19:18 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 19), (1, 37)]
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     Run scale 2 analysis
+
+08-14 19:18 analysis     INFO     Analysing 56 ensemble members
+08-14 19:18 analysis     INFO     Position on cumoveroverlap
+08-14 19:18 analysis     INFO     ==========================
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 31), (1, 25)]
+08-14 19:18 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:18 analysis     INFO       [(0, 25), (1, 31)]
+08-14 19:18 analysis     INFO     
+08-14 19:18 analysis     INFO     Run scale 3 analysis
+
+08-14 19:18 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on cumoveroverlap
+08-14 19:19 analysis     INFO     ==========================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 35), (1, 21)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 21), (1, 35)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:19 analysis     INFO     Run full analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdistovermatches
+08-14 19:19 analysis     INFO     ==============================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 8), (1, 6), (2, 12), (3, 9), (4, 8), (5, 13)]
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 1), (1, 2), (2, 4), (3, 9), (4, 15), (5, 25)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 14), (1, 17), (2, 12), (3, 5), (4, 5), (5, 3)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 7), (1, 7), (2, 8), (3, 17), (4, 12), (5, 5)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 20), (1, 16), (2, 9), (3, 7), (4, 3), (5, 1)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 6), (1, 8), (2, 11), (3, 9), (4, 13), (5, 9)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run 995 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdistovermatches
+08-14 19:19 analysis     INFO     ==============================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 9), (1, 9), (2, 38)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 19), (1, 23), (2, 14)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 28), (1, 24), (2, 4)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run 850 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdistovermatches
+08-14 19:19 analysis     INFO     ==============================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 11), (1, 6), (2, 39)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 23), (1, 25), (2, 8)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 22), (1, 25), (2, 9)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run scale 1 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdistovermatches
+08-14 19:19 analysis     INFO     ==============================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 40), (1, 16)]
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 16), (1, 40)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run scale 2 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdistovermatches
+08-14 19:19 analysis     INFO     ==============================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 38), (1, 18)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 18), (1, 38)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run scale 3 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdistovermatches
+08-14 19:19 analysis     INFO     ==============================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 39), (1, 17)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 17), (1, 39)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run analysis on col avgdist
+08-14 19:19 analysis     INFO     Run full analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdist
+08-14 19:19 analysis     INFO     ===================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 12), (1, 10), (2, 15), (3, 4), (4, 14), (5, 1)]
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 2), (1, 2), (2, 3), (3, 7), (4, 7), (5, 35)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 22), (1, 19), (2, 7), (3, 2), (4, 6)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 2), (1, 5), (2, 16), (3, 15), (4, 15), (5, 3)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 16), (1, 14), (2, 9), (3, 11), (4, 1), (5, 5)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 2), (1, 6), (2, 6), (3, 17), (4, 13), (5, 12)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run 995 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdist
+08-14 19:19 analysis     INFO     ===================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 14), (1, 12), (2, 30)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 25), (1, 23), (2, 8)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 17), (1, 21), (2, 18)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run 850 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdist
+08-14 19:19 analysis     INFO     ===================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 11), (1, 8), (2, 37)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 25), (1, 26), (2, 5)]
+08-14 19:19 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 20), (1, 22), (2, 14)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run scale 1 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdist
+08-14 19:19 analysis     INFO     ===================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 49), (1, 7)]
+08-14 19:19 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 7), (1, 49)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run scale 2 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:19 analysis     INFO     Position on avgdist
+08-14 19:19 analysis     INFO     ===================
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 46), (1, 10)]
+08-14 19:19 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:19 analysis     INFO       [(0, 10), (1, 46)]
+08-14 19:19 analysis     INFO     
+08-14 19:19 analysis     INFO     Run scale 3 analysis
+
+08-14 19:19 analysis     INFO     Analysing 56 ensemble members
+08-14 19:20 analysis     INFO     Position on avgdist
+08-14 19:20 analysis     INFO     ===================
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 44), (1, 12)]
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 12), (1, 44)]
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Run scale 1 wld
+
+08-14 19:20 analysis     INFO     Win Lose Draw
+08-14 19:20 analysis     INFO     =============
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 448
+08-14 19:20 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 392
+08-14 19:20 analysis     INFO     draw: 224
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Run scale 2 wld
+
+08-14 19:20 analysis     INFO     Win Lose Draw
+08-14 19:20 analysis     INFO     =============
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 504
+08-14 19:20 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 336
+08-14 19:20 analysis     INFO     draw: 224
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Run scale 3 wld
+
+08-14 19:20 analysis     INFO     Win Lose Draw
+08-14 19:20 analysis     INFO     =============
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 616
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 224
+08-14 19:20 analysis     INFO     draw: 224
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Running tracking stats analysis for year 2001
+08-14 19:20 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:20 analysis     INFO     Run full analysis
+
+08-14 19:20 analysis     INFO     Analysing 56 ensemble members
+08-14 19:20 analysis     INFO     Position on cumoveroverlap
+08-14 19:20 analysis     INFO     ==========================
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(2, 2), (3, 6), (4, 12), (5, 36)]
+08-14 19:20 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 1), (1, 1), (2, 7), (3, 7), (4, 30), (5, 10)]
+08-14 19:20 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 5), (1, 10), (2, 17), (3, 12), (4, 6), (5, 6)]
+08-14 19:20 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 17), (1, 18), (2, 8), (3, 11), (4, 1), (5, 1)]
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 10), (1, 13), (2, 17), (3, 8), (4, 6), (5, 2)]
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 23), (1, 14), (2, 5), (3, 12), (4, 1), (5, 1)]
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Run 995 analysis
+
+08-14 19:20 analysis     INFO     Analysing 56 ensemble members
+08-14 19:20 analysis     INFO     Position on cumoveroverlap
+08-14 19:20 analysis     INFO     ==========================
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 2), (1, 6), (2, 48)]
+08-14 19:20 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 18), (1, 32), (2, 6)]
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 36), (1, 18), (2, 2)]
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Run 850 analysis
+
+08-14 19:20 analysis     INFO     Analysing 56 ensemble members
+08-14 19:20 analysis     INFO     Position on cumoveroverlap
+08-14 19:20 analysis     INFO     ==========================
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 2), (1, 3), (2, 51)]
+08-14 19:20 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 24), (1, 31), (2, 1)]
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 30), (1, 22), (2, 4)]
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Run scale 1 analysis
+
+08-14 19:20 analysis     INFO     Analysing 56 ensemble members
+08-14 19:20 analysis     INFO     Position on cumoveroverlap
+08-14 19:20 analysis     INFO     ==========================
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 14), (1, 42)]
+08-14 19:20 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 42), (1, 14)]
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Run scale 2 analysis
+
+08-14 19:20 analysis     INFO     Analysing 56 ensemble members
+08-14 19:20 analysis     INFO     Position on cumoveroverlap
+08-14 19:20 analysis     INFO     ==========================
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 18), (1, 38)]
+08-14 19:20 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 38), (1, 18)]
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Run scale 3 analysis
+
+08-14 19:20 analysis     INFO     Analysing 56 ensemble members
+08-14 19:20 analysis     INFO     Position on cumoveroverlap
+08-14 19:20 analysis     INFO     ==========================
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 19), (1, 37)]
+08-14 19:20 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:20 analysis     INFO       [(0, 37), (1, 19)]
+08-14 19:20 analysis     INFO     
+08-14 19:20 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:20 analysis     INFO     Run full analysis
+
+08-14 19:20 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdistovermatches
+08-14 19:21 analysis     INFO     ==============================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(1, 1), (3, 8), (4, 14), (5, 33)]
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 2), (1, 1), (2, 12), (3, 11), (4, 19), (5, 11)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 1), (1, 13), (2, 12), (3, 14), (4, 9), (5, 7)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 17), (1, 18), (2, 10), (3, 10), (5, 1)]
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 11), (1, 7), (2, 16), (3, 6), (4, 12), (5, 4)]
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 25), (1, 16), (2, 6), (3, 7), (4, 2)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run 995 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdistovermatches
+08-14 19:21 analysis     INFO     ==============================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 5), (1, 8), (2, 43)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 17), (1, 30), (2, 9)]
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 34), (1, 18), (2, 4)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run 850 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdistovermatches
+08-14 19:21 analysis     INFO     ==============================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 3), (1, 3), (2, 50)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 23), (1, 30), (2, 3)]
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 30), (1, 23), (2, 3)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run scale 1 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdistovermatches
+08-14 19:21 analysis     INFO     ==============================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 14), (1, 42)]
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 42), (1, 14)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run scale 2 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdistovermatches
+08-14 19:21 analysis     INFO     ==============================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 17), (1, 39)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 39), (1, 17)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run scale 3 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdistovermatches
+08-14 19:21 analysis     INFO     ==============================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 16), (1, 40)]
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 40), (1, 16)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run analysis on col avgdist
+08-14 19:21 analysis     INFO     Run full analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdist
+08-14 19:21 analysis     INFO     ===================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 2), (1, 1), (2, 5), (3, 5), (4, 16), (5, 27)]
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 4), (1, 6), (2, 23), (3, 3), (4, 10), (5, 10)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 6), (1, 7), (2, 2), (3, 28), (4, 10), (5, 3)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 28), (1, 13), (2, 6), (3, 6), (4, 1), (5, 2)]
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 5), (1, 6), (2, 11), (3, 11), (4, 14), (5, 9)]
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 11), (1, 23), (2, 9), (3, 3), (4, 5), (5, 5)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run 995 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdist
+08-14 19:21 analysis     INFO     ===================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 9), (1, 5), (2, 42)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 26), (1, 27), (2, 3)]
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 21), (1, 24), (2, 11)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run 850 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdist
+08-14 19:21 analysis     INFO     ===================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 7), (1, 9), (2, 40)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 32), (1, 20), (2, 4)]
+08-14 19:21 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 17), (1, 27), (2, 12)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run scale 1 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdist
+08-14 19:21 analysis     INFO     ===================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 16), (1, 40)]
+08-14 19:21 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 40), (1, 16)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run scale 2 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:21 analysis     INFO     Position on avgdist
+08-14 19:21 analysis     INFO     ===================
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 11), (1, 45)]
+08-14 19:21 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:21 analysis     INFO       [(0, 45), (1, 11)]
+08-14 19:21 analysis     INFO     
+08-14 19:21 analysis     INFO     Run scale 3 analysis
+
+08-14 19:21 analysis     INFO     Analysing 56 ensemble members
+08-14 19:22 analysis     INFO     Position on avgdist
+08-14 19:22 analysis     INFO     ===================
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 17), (1, 39)]
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 39), (1, 17)]
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Run scale 1 wld
+
+08-14 19:22 analysis     INFO     Win Lose Draw
+08-14 19:22 analysis     INFO     =============
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 336
+08-14 19:22 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 504
+08-14 19:22 analysis     INFO     draw: 112
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Run scale 2 wld
+
+08-14 19:22 analysis     INFO     Win Lose Draw
+08-14 19:22 analysis     INFO     =============
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 168
+08-14 19:22 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 672
+08-14 19:22 analysis     INFO     draw: 112
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Run scale 3 wld
+
+08-14 19:22 analysis     INFO     Win Lose Draw
+08-14 19:22 analysis     INFO     =============
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 280
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 560
+08-14 19:22 analysis     INFO     draw: 112
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Running tracking stats analysis for year 2002
+08-14 19:22 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:22 analysis     INFO     Run full analysis
+
+08-14 19:22 analysis     INFO     Analysing 56 ensemble members
+08-14 19:22 analysis     INFO     Position on cumoveroverlap
+08-14 19:22 analysis     INFO     ==========================
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 3), (1, 2), (2, 12), (3, 9), (4, 8), (5, 22)]
+08-14 19:22 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 6), (1, 9), (2, 6), (3, 9), (4, 13), (5, 13)]
+08-14 19:22 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 17), (1, 7), (2, 7), (3, 11), (4, 9), (5, 5)]
+08-14 19:22 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 6), (1, 10), (2, 17), (3, 8), (4, 10), (5, 5)]
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 9), (1, 14), (2, 3), (3, 9), (4, 10), (5, 11)]
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 15), (1, 14), (2, 11), (3, 10), (4, 6)]
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Run 995 analysis
+
+08-14 19:22 analysis     INFO     Analysing 56 ensemble members
+08-14 19:22 analysis     INFO     Position on cumoveroverlap
+08-14 19:22 analysis     INFO     ==========================
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 11), (1, 12), (2, 33)]
+08-14 19:22 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 27), (1, 20), (2, 9)]
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 18), (1, 24), (2, 14)]
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Run 850 analysis
+
+08-14 19:22 analysis     INFO     Analysing 56 ensemble members
+08-14 19:22 analysis     INFO     Position on cumoveroverlap
+08-14 19:22 analysis     INFO     ==========================
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 11), (1, 14), (2, 31)]
+08-14 19:22 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 13), (1, 24), (2, 19)]
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 32), (1, 18), (2, 6)]
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Run scale 1 analysis
+
+08-14 19:22 analysis     INFO     Analysing 56 ensemble members
+08-14 19:22 analysis     INFO     Position on cumoveroverlap
+08-14 19:22 analysis     INFO     ==========================
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 22), (1, 34)]
+08-14 19:22 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 34), (1, 22)]
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Run scale 2 analysis
+
+08-14 19:22 analysis     INFO     Analysing 56 ensemble members
+08-14 19:22 analysis     INFO     Position on cumoveroverlap
+08-14 19:22 analysis     INFO     ==========================
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 31), (1, 25)]
+08-14 19:22 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 25), (1, 31)]
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Run scale 3 analysis
+
+08-14 19:22 analysis     INFO     Analysing 56 ensemble members
+08-14 19:22 analysis     INFO     Position on cumoveroverlap
+08-14 19:22 analysis     INFO     ==========================
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 22), (1, 34)]
+08-14 19:22 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:22 analysis     INFO       [(0, 34), (1, 22)]
+08-14 19:22 analysis     INFO     
+08-14 19:22 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:22 analysis     INFO     Run full analysis
+
+08-14 19:22 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdistovermatches
+08-14 19:23 analysis     INFO     ==============================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 1), (1, 9), (2, 7), (3, 9), (4, 10), (5, 20)]
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 6), (1, 7), (2, 8), (3, 14), (4, 12), (5, 9)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 12), (1, 8), (2, 9), (3, 9), (4, 8), (5, 10)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 4), (1, 12), (2, 11), (3, 10), (4, 7), (5, 12)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 12), (1, 7), (2, 12), (3, 9), (4, 12), (5, 4)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 21), (1, 13), (2, 9), (3, 5), (4, 7), (5, 1)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run 995 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdistovermatches
+08-14 19:23 analysis     INFO     ==============================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 14), (1, 10), (2, 32)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 20), (1, 21), (2, 15)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 22), (1, 25), (2, 9)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run 850 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdistovermatches
+08-14 19:23 analysis     INFO     ==============================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 11), (1, 14), (2, 31)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 8), (1, 27), (2, 21)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 37), (1, 15), (2, 4)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run scale 1 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdistovermatches
+08-14 19:23 analysis     INFO     ==============================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 19), (1, 37)]
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 37), (1, 19)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run scale 2 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdistovermatches
+08-14 19:23 analysis     INFO     ==============================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 28), (1, 28)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 28), (1, 28)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run scale 3 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdistovermatches
+08-14 19:23 analysis     INFO     ==============================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 20), (1, 36)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 36), (1, 20)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run analysis on col avgdist
+08-14 19:23 analysis     INFO     Run full analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdist
+08-14 19:23 analysis     INFO     ===================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 10), (1, 11), (2, 14), (3, 8), (4, 3), (5, 10)]
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 9), (1, 11), (2, 15), (3, 10), (4, 5), (5, 6)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 20), (1, 15), (2, 7), (3, 6), (4, 6), (5, 2)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 13), (1, 8), (2, 8), (3, 10), (4, 11), (5, 6)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 4), (1, 4), (2, 5), (3, 13), (4, 17), (5, 13)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(1, 7), (2, 7), (3, 9), (4, 14), (5, 19)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run 995 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdist
+08-14 19:23 analysis     INFO     ===================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 19), (1, 20), (2, 17)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 32), (1, 21), (2, 3)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 5), (1, 15), (2, 36)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run 850 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdist
+08-14 19:23 analysis     INFO     ===================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 28), (1, 18), (2, 10)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 21), (1, 26), (2, 9)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 7), (1, 12), (2, 37)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run scale 1 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdist
+08-14 19:23 analysis     INFO     ===================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 31), (1, 25)]
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 25), (1, 31)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run scale 2 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdist
+08-14 19:23 analysis     INFO     ===================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 34), (1, 22)]
+08-14 19:23 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 22), (1, 34)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run scale 3 analysis
+
+08-14 19:23 analysis     INFO     Analysing 56 ensemble members
+08-14 19:23 analysis     INFO     Position on avgdist
+08-14 19:23 analysis     INFO     ===================
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 31), (1, 25)]
+08-14 19:23 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:23 analysis     INFO       [(0, 25), (1, 31)]
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run scale 1 wld
+
+08-14 19:23 analysis     INFO     Win Lose Draw
+08-14 19:23 analysis     INFO     =============
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 336
+08-14 19:23 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 336
+08-14 19:23 analysis     INFO     draw: 112
+08-14 19:23 analysis     INFO     
+08-14 19:23 analysis     INFO     Run scale 2 wld
+
+08-14 19:24 analysis     INFO     Win Lose Draw
+08-14 19:24 analysis     INFO     =============
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 392
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 280
+08-14 19:24 analysis     INFO     draw: 112
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     Run scale 3 wld
+
+08-14 19:24 analysis     INFO     Win Lose Draw
+08-14 19:24 analysis     INFO     =============
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 448
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 224
+08-14 19:24 analysis     INFO     draw: 112
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     Running tracking stats analysis for year 2003
+08-14 19:24 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:24 analysis     INFO     Run full analysis
+
+08-14 19:24 analysis     INFO     Analysing 56 ensemble members
+08-14 19:24 analysis     INFO     Position on cumoveroverlap
+08-14 19:24 analysis     INFO     ==========================
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 5), (1, 7), (2, 8), (3, 8), (4, 11), (5, 17)]
+08-14 19:24 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 4), (1, 5), (2, 7), (3, 6), (4, 13), (5, 21)]
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 13), (1, 13), (2, 11), (3, 11), (4, 5), (5, 3)]
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 6), (1, 6), (2, 12), (3, 14), (4, 12), (5, 6)]
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 15), (1, 15), (2, 8), (3, 7), (4, 8), (5, 3)]
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 13), (1, 10), (2, 10), (3, 10), (4, 7), (5, 6)]
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     Run 995 analysis
+
+08-14 19:24 analysis     INFO     Analysing 56 ensemble members
+08-14 19:24 analysis     INFO     Position on cumoveroverlap
+08-14 19:24 analysis     INFO     ==========================
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 10), (1, 9), (2, 37)]
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 20), (1, 27), (2, 9)]
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 26), (1, 20), (2, 10)]
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     Run 850 analysis
+
+08-14 19:24 analysis     INFO     Analysing 56 ensemble members
+08-14 19:24 analysis     INFO     Position on cumoveroverlap
+08-14 19:24 analysis     INFO     ==========================
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 13), (1, 10), (2, 33)]
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 14), (1, 31), (2, 11)]
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 29), (1, 15), (2, 12)]
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     Run scale 1 analysis
+
+08-14 19:24 analysis     INFO     Analysing 56 ensemble members
+08-14 19:24 analysis     INFO     Position on cumoveroverlap
+08-14 19:24 analysis     INFO     ==========================
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 32), (1, 24)]
+08-14 19:24 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 24), (1, 32)]
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     Run scale 2 analysis
+
+08-14 19:24 analysis     INFO     Analysing 56 ensemble members
+08-14 19:24 analysis     INFO     Position on cumoveroverlap
+08-14 19:24 analysis     INFO     ==========================
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 37), (1, 19)]
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 19), (1, 37)]
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     Run scale 3 analysis
+
+08-14 19:24 analysis     INFO     Analysing 56 ensemble members
+08-14 19:24 analysis     INFO     Position on cumoveroverlap
+08-14 19:24 analysis     INFO     ==========================
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 29), (1, 27)]
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 27), (1, 29)]
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:24 analysis     INFO     Run full analysis
+
+08-14 19:24 analysis     INFO     Analysing 56 ensemble members
+08-14 19:24 analysis     INFO     Position on avgdistovermatches
+08-14 19:24 analysis     INFO     ==============================
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 5), (1, 5), (2, 8), (3, 17), (4, 8), (5, 13)]
+08-14 19:24 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 9), (1, 5), (2, 6), (3, 6), (4, 13), (5, 17)]
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 8), (1, 16), (2, 15), (3, 10), (4, 4), (5, 3)]
+08-14 19:24 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 7), (1, 8), (2, 9), (3, 10), (4, 10), (5, 12)]
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 13), (1, 13), (2, 11), (3, 4), (4, 10), (5, 5)]
+08-14 19:24 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:24 analysis     INFO       [(0, 14), (1, 9), (2, 7), (3, 9), (4, 11), (5, 6)]
+08-14 19:24 analysis     INFO     
+08-14 19:24 analysis     INFO     Run 995 analysis
+
+08-14 19:24 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdistovermatches
+08-14 19:25 analysis     INFO     ==============================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 12), (1, 11), (2, 33)]
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 21), (1, 25), (2, 10)]
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 23), (1, 20), (2, 13)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run 850 analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdistovermatches
+08-14 19:25 analysis     INFO     ==============================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 14), (1, 17), (2, 25)]
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 18), (1, 18), (2, 20)]
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 24), (1, 21), (2, 11)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run scale 1 analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdistovermatches
+08-14 19:25 analysis     INFO     ==============================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 29), (1, 27)]
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 27), (1, 29)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run scale 2 analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdistovermatches
+08-14 19:25 analysis     INFO     ==============================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 37), (1, 19)]
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 19), (1, 37)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run scale 3 analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdistovermatches
+08-14 19:25 analysis     INFO     ==============================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 32), (1, 24)]
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 24), (1, 32)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run analysis on col avgdist
+08-14 19:25 analysis     INFO     Run full analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdist
+08-14 19:25 analysis     INFO     ===================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 10), (1, 12), (2, 12), (3, 14), (4, 6), (5, 2)]
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 17), (1, 9), (2, 9), (3, 8), (4, 10), (5, 3)]
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 9), (1, 10), (2, 17), (3, 7), (4, 11), (5, 2)]
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 15), (1, 17), (2, 6), (3, 8), (4, 9), (5, 1)]
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(1, 4), (2, 3), (3, 8), (4, 11), (5, 30)]
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 5), (1, 4), (2, 9), (3, 11), (4, 9), (5, 18)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run 995 analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdist
+08-14 19:25 analysis     INFO     ===================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 30), (1, 21), (2, 5)]
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 25), (1, 26), (2, 5)]
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 1), (1, 9), (2, 46)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run 850 analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdist
+08-14 19:25 analysis     INFO     ===================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 25), (1, 16), (2, 15)]
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 23), (1, 27), (2, 6)]
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 8), (1, 13), (2, 35)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run scale 1 analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdist
+08-14 19:25 analysis     INFO     ===================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 23), (1, 33)]
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 33), (1, 23)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run scale 2 analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdist
+08-14 19:25 analysis     INFO     ===================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 22), (1, 34)]
+08-14 19:25 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 34), (1, 22)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run scale 3 analysis
+
+08-14 19:25 analysis     INFO     Analysing 56 ensemble members
+08-14 19:25 analysis     INFO     Position on avgdist
+08-14 19:25 analysis     INFO     ===================
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 20), (1, 36)]
+08-14 19:25 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:25 analysis     INFO       [(0, 36), (1, 20)]
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run scale 1 wld
+
+08-14 19:25 analysis     INFO     Win Lose Draw
+08-14 19:25 analysis     INFO     =============
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 336
+08-14 19:25 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 392
+08-14 19:25 analysis     INFO     draw: 448
+08-14 19:25 analysis     INFO     
+08-14 19:25 analysis     INFO     Run scale 2 wld
+
+08-14 19:26 analysis     INFO     Win Lose Draw
+08-14 19:26 analysis     INFO     =============
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 392
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 392
+08-14 19:26 analysis     INFO     draw: 392
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     Run scale 3 wld
+
+08-14 19:26 analysis     INFO     Win Lose Draw
+08-14 19:26 analysis     INFO     =============
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 448
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 336
+08-14 19:26 analysis     INFO     draw: 392
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     Running tracking stats analysis for year 2004
+08-14 19:26 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:26 analysis     INFO     Run full analysis
+
+08-14 19:26 analysis     INFO     Analysing 56 ensemble members
+08-14 19:26 analysis     INFO     Position on cumoveroverlap
+08-14 19:26 analysis     INFO     ==========================
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 11), (1, 11), (2, 11), (3, 10), (4, 4), (5, 9)]
+08-14 19:26 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 21), (1, 14), (2, 11), (3, 5), (4, 2), (5, 3)]
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(1, 2), (2, 2), (3, 9), (4, 20), (5, 23)]
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 13), (1, 14), (2, 15), (3, 8), (4, 4), (5, 2)]
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(2, 7), (3, 12), (4, 21), (5, 16)]
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 11), (1, 15), (2, 10), (3, 12), (4, 5), (5, 3)]
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     Run 995 analysis
+
+08-14 19:26 analysis     INFO     Analysing 56 ensemble members
+08-14 19:26 analysis     INFO     Position on cumoveroverlap
+08-14 19:26 analysis     INFO     ==========================
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 40), (1, 7), (2, 9)]
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 7), (1, 22), (2, 27)]
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 9), (1, 27), (2, 20)]
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     Run 850 analysis
+
+08-14 19:26 analysis     INFO     Analysing 56 ensemble members
+08-14 19:26 analysis     INFO     Position on cumoveroverlap
+08-14 19:26 analysis     INFO     ==========================
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 29), (1, 11), (2, 16)]
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 13), (1, 25), (2, 18)]
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 14), (1, 20), (2, 22)]
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     Run scale 1 analysis
+
+08-14 19:26 analysis     INFO     Analysing 56 ensemble members
+08-14 19:26 analysis     INFO     Position on cumoveroverlap
+08-14 19:26 analysis     INFO     ==========================
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 21), (1, 35)]
+08-14 19:26 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 35), (1, 21)]
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     Run scale 2 analysis
+
+08-14 19:26 analysis     INFO     Analysing 56 ensemble members
+08-14 19:26 analysis     INFO     Position on cumoveroverlap
+08-14 19:26 analysis     INFO     ==========================
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 4), (1, 52)]
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 52), (1, 4)]
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     Run scale 3 analysis
+
+08-14 19:26 analysis     INFO     Analysing 56 ensemble members
+08-14 19:26 analysis     INFO     Position on cumoveroverlap
+08-14 19:26 analysis     INFO     ==========================
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 8), (1, 48)]
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 48), (1, 8)]
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:26 analysis     INFO     Run full analysis
+
+08-14 19:26 analysis     INFO     Analysing 56 ensemble members
+08-14 19:26 analysis     INFO     Position on avgdistovermatches
+08-14 19:26 analysis     INFO     ==============================
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 6), (1, 7), (2, 8), (3, 12), (4, 13), (5, 10)]
+08-14 19:26 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 17), (1, 5), (2, 12), (3, 7), (4, 8), (5, 7)]
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 4), (1, 10), (2, 5), (3, 11), (4, 17), (5, 9)]
+08-14 19:26 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 9), (1, 16), (2, 13), (3, 6), (4, 5), (5, 7)]
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 8), (1, 9), (2, 5), (3, 15), (4, 9), (5, 10)]
+08-14 19:26 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:26 analysis     INFO       [(0, 12), (1, 9), (2, 13), (3, 5), (4, 4), (5, 13)]
+08-14 19:26 analysis     INFO     
+08-14 19:26 analysis     INFO     Run 995 analysis
+
+08-14 19:26 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdistovermatches
+08-14 19:27 analysis     INFO     ==============================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 21), (1, 12), (2, 23)]
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 13), (1, 25), (2, 18)]
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 22), (1, 19), (2, 15)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run 850 analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdistovermatches
+08-14 19:27 analysis     INFO     ==============================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 20), (1, 16), (2, 20)]
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 17), (1, 24), (2, 15)]
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 19), (1, 16), (2, 21)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run scale 1 analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdistovermatches
+08-14 19:27 analysis     INFO     ==============================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 19), (1, 37)]
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 37), (1, 19)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run scale 2 analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdistovermatches
+08-14 19:27 analysis     INFO     ==============================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 20), (1, 36)]
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 36), (1, 20)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run scale 3 analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdistovermatches
+08-14 19:27 analysis     INFO     ==============================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 26), (1, 30)]
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 30), (1, 26)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run analysis on col avgdist
+08-14 19:27 analysis     INFO     Run full analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdist
+08-14 19:27 analysis     INFO     ===================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 1), (1, 4), (2, 4), (3, 11), (4, 7), (5, 29)]
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 10), (1, 5), (2, 3), (3, 12), (4, 15), (5, 11)]
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 9), (1, 10), (2, 14), (3, 12), (4, 8), (5, 3)]
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 15), (1, 18), (2, 8), (3, 9), (4, 5), (5, 1)]
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 6), (1, 12), (2, 13), (3, 6), (4, 13), (5, 6)]
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 15), (1, 7), (2, 14), (3, 6), (4, 8), (5, 6)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run 995 analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdist
+08-14 19:27 analysis     INFO     ===================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 8), (1, 7), (2, 41)]
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 27), (1, 23), (2, 6)]
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 21), (1, 26), (2, 9)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run 850 analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdist
+08-14 19:27 analysis     INFO     ===================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 10), (1, 15), (2, 31)]
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 24), (1, 25), (2, 7)]
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 22), (1, 16), (2, 18)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run scale 1 analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdist
+08-14 19:27 analysis     INFO     ===================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 18), (1, 38)]
+08-14 19:27 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 38), (1, 18)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run scale 2 analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdist
+08-14 19:27 analysis     INFO     ===================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 21), (1, 35)]
+08-14 19:27 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 35), (1, 21)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run scale 3 analysis
+
+08-14 19:27 analysis     INFO     Analysing 56 ensemble members
+08-14 19:27 analysis     INFO     Position on avgdist
+08-14 19:27 analysis     INFO     ===================
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 24), (1, 32)]
+08-14 19:27 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:27 analysis     INFO       [(0, 32), (1, 24)]
+08-14 19:27 analysis     INFO     
+08-14 19:27 analysis     INFO     Run scale 1 wld
+
+08-14 19:28 analysis     INFO     Win Lose Draw
+08-14 19:28 analysis     INFO     =============
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 336
+08-14 19:28 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 504
+08-14 19:28 analysis     INFO     draw: 56
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     Run scale 2 wld
+
+08-14 19:28 analysis     INFO     Win Lose Draw
+08-14 19:28 analysis     INFO     =============
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 280
+08-14 19:28 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 616
+08-14 19:28 analysis     INFO     draw: 0
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     Run scale 3 wld
+
+08-14 19:28 analysis     INFO     Win Lose Draw
+08-14 19:28 analysis     INFO     =============
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 392
+08-14 19:28 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 448
+08-14 19:28 analysis     INFO     draw: 56
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     Running tracking stats analysis for year 2005
+08-14 19:28 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:28 analysis     INFO     Run full analysis
+
+08-14 19:28 analysis     INFO     Analysing 56 ensemble members
+08-14 19:28 analysis     INFO     Position on cumoveroverlap
+08-14 19:28 analysis     INFO     ==========================
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 1), (1, 6), (2, 6), (3, 9), (4, 13), (5, 21)]
+08-14 19:28 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(2, 3), (3, 5), (4, 20), (5, 28)]
+08-14 19:28 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 11), (1, 22), (2, 10), (3, 8), (4, 4), (5, 1)]
+08-14 19:28 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 5), (1, 8), (2, 11), (3, 15), (4, 14), (5, 3)]
+08-14 19:28 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 26), (1, 11), (2, 10), (3, 6), (4, 3)]
+08-14 19:28 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 13), (1, 9), (2, 16), (3, 13), (4, 2), (5, 3)]
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     Run 995 analysis
+
+08-14 19:28 analysis     INFO     Analysing 56 ensemble members
+08-14 19:28 analysis     INFO     Position on cumoveroverlap
+08-14 19:28 analysis     INFO     ==========================
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 1), (1, 9), (2, 46)]
+08-14 19:28 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 20), (1, 30), (2, 6)]
+08-14 19:28 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 35), (1, 17), (2, 4)]
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     Run 850 analysis
+
+08-14 19:28 analysis     INFO     Analysing 56 ensemble members
+08-14 19:28 analysis     INFO     Position on cumoveroverlap
+08-14 19:28 analysis     INFO     ==========================
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(1, 9), (2, 47)]
+08-14 19:28 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 15), (1, 35), (2, 6)]
+08-14 19:28 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 41), (1, 12), (2, 3)]
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     Run scale 1 analysis
+
+08-14 19:28 analysis     INFO     Analysing 56 ensemble members
+08-14 19:28 analysis     INFO     Position on cumoveroverlap
+08-14 19:28 analysis     INFO     ==========================
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 34), (1, 22)]
+08-14 19:28 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:28 analysis     INFO       [(0, 22), (1, 34)]
+08-14 19:28 analysis     INFO     
+08-14 19:28 analysis     INFO     Run scale 2 analysis
+
+08-14 19:28 analysis     INFO     Analysing 56 ensemble members
+08-14 19:29 analysis     INFO     Position on cumoveroverlap
+08-14 19:29 analysis     INFO     ==========================
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 38), (1, 18)]
+08-14 19:29 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 18), (1, 38)]
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     Run scale 3 analysis
+
+08-14 19:29 analysis     INFO     Analysing 56 ensemble members
+08-14 19:29 analysis     INFO     Position on cumoveroverlap
+08-14 19:29 analysis     INFO     ==========================
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 35), (1, 21)]
+08-14 19:29 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 21), (1, 35)]
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:29 analysis     INFO     Run full analysis
+
+08-14 19:29 analysis     INFO     Analysing 56 ensemble members
+08-14 19:29 analysis     INFO     Position on avgdistovermatches
+08-14 19:29 analysis     INFO     ==============================
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 1), (1, 5), (2, 9), (3, 2), (4, 13), (5, 26)]
+08-14 19:29 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 3), (1, 2), (2, 8), (3, 9), (4, 19), (5, 15)]
+08-14 19:29 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 9), (1, 13), (2, 9), (3, 12), (4, 8), (5, 5)]
+08-14 19:29 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 12), (1, 7), (2, 11), (3, 13), (4, 9), (5, 4)]
+08-14 19:29 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 16), (1, 12), (2, 10), (3, 12), (4, 3), (5, 3)]
+08-14 19:29 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 15), (1, 17), (2, 9), (3, 8), (4, 4), (5, 3)]
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     Run 995 analysis
+
+08-14 19:29 analysis     INFO     Analysing 56 ensemble members
+08-14 19:29 analysis     INFO     Position on avgdistovermatches
+08-14 19:29 analysis     INFO     ==============================
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 3), (1, 12), (2, 41)]
+08-14 19:29 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 18), (1, 26), (2, 12)]
+08-14 19:29 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 35), (1, 18), (2, 3)]
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     Run 850 analysis
+
+08-14 19:29 analysis     INFO     Analysing 56 ensemble members
+08-14 19:29 analysis     INFO     Position on avgdistovermatches
+08-14 19:29 analysis     INFO     ==============================
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 3), (1, 13), (2, 40)]
+08-14 19:29 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 19), (1, 25), (2, 12)]
+08-14 19:29 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 34), (1, 18), (2, 4)]
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     Run scale 1 analysis
+
+08-14 19:29 analysis     INFO     Analysing 56 ensemble members
+08-14 19:29 analysis     INFO     Position on avgdistovermatches
+08-14 19:29 analysis     INFO     ==============================
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 24), (1, 32)]
+08-14 19:29 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 32), (1, 24)]
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     Run scale 2 analysis
+
+08-14 19:29 analysis     INFO     Analysing 56 ensemble members
+08-14 19:29 analysis     INFO     Position on avgdistovermatches
+08-14 19:29 analysis     INFO     ==============================
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 30), (1, 26)]
+08-14 19:29 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 26), (1, 30)]
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     Run scale 3 analysis
+
+08-14 19:29 analysis     INFO     Analysing 56 ensemble members
+08-14 19:29 analysis     INFO     Position on avgdistovermatches
+08-14 19:29 analysis     INFO     ==============================
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 26), (1, 30)]
+08-14 19:29 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:29 analysis     INFO       [(0, 30), (1, 26)]
+08-14 19:29 analysis     INFO     
+08-14 19:29 analysis     INFO     Run analysis on col avgdist
+08-14 19:29 analysis     INFO     Run full analysis
+
+08-14 19:29 analysis     INFO     Analysing 56 ensemble members
+08-14 19:30 analysis     INFO     Position on avgdist
+08-14 19:30 analysis     INFO     ===================
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 8), (1, 5), (2, 8), (3, 8), (4, 12), (5, 15)]
+08-14 19:30 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 8), (1, 12), (2, 5), (3, 7), (4, 10), (5, 14)]
+08-14 19:30 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 13), (1, 12), (2, 7), (3, 9), (4, 10), (5, 5)]
+08-14 19:30 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 16), (1, 7), (2, 15), (3, 6), (4, 9), (5, 3)]
+08-14 19:30 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 6), (1, 14), (2, 7), (3, 16), (4, 6), (5, 7)]
+08-14 19:30 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 5), (1, 6), (2, 14), (3, 10), (4, 9), (5, 12)]
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     Run 995 analysis
+
+08-14 19:30 analysis     INFO     Analysing 56 ensemble members
+08-14 19:30 analysis     INFO     Position on avgdist
+08-14 19:30 analysis     INFO     ===================
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 11), (1, 14), (2, 31)]
+08-14 19:30 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 25), (1, 20), (2, 11)]
+08-14 19:30 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 20), (1, 22), (2, 14)]
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     Run 850 analysis
+
+08-14 19:30 analysis     INFO     Analysing 56 ensemble members
+08-14 19:30 analysis     INFO     Position on avgdist
+08-14 19:30 analysis     INFO     ===================
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 21), (1, 11), (2, 24)]
+08-14 19:30 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 25), (1, 20), (2, 11)]
+08-14 19:30 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 10), (1, 25), (2, 21)]
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     Run scale 1 analysis
+
+08-14 19:30 analysis     INFO     Analysing 56 ensemble members
+08-14 19:30 analysis     INFO     Position on avgdist
+08-14 19:30 analysis     INFO     ===================
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 29), (1, 27)]
+08-14 19:30 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 27), (1, 29)]
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     Run scale 2 analysis
+
+08-14 19:30 analysis     INFO     Analysing 56 ensemble members
+08-14 19:30 analysis     INFO     Position on avgdist
+08-14 19:30 analysis     INFO     ===================
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 26), (1, 30)]
+08-14 19:30 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 30), (1, 26)]
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     Run scale 3 analysis
+
+08-14 19:30 analysis     INFO     Analysing 56 ensemble members
+08-14 19:30 analysis     INFO     Position on avgdist
+08-14 19:30 analysis     INFO     ===================
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 31), (1, 25)]
+08-14 19:30 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:30 analysis     INFO       [(0, 25), (1, 31)]
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     Run scale 1 wld
+
+08-14 19:30 analysis     INFO     Win Lose Draw
+08-14 19:30 analysis     INFO     =============
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 448
+08-14 19:30 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 840
+08-14 19:30 analysis     INFO     draw: 448
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     Run scale 2 wld
+
+08-14 19:30 analysis     INFO     Win Lose Draw
+08-14 19:30 analysis     INFO     =============
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 672
+08-14 19:30 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 616
+08-14 19:30 analysis     INFO     draw: 448
+08-14 19:30 analysis     INFO     
+08-14 19:30 analysis     INFO     Run scale 3 wld
+
+08-14 19:31 analysis     INFO     Win Lose Draw
+08-14 19:31 analysis     INFO     =============
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 728
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 616
+08-14 19:31 analysis     INFO     draw: 392
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Running tracking stats analysis for year 2006
+08-14 19:31 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:31 analysis     INFO     Run full analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on cumoveroverlap
+08-14 19:31 analysis     INFO     ==========================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 3), (1, 4), (2, 4), (3, 10), (4, 10), (5, 25)]
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 3), (1, 3), (2, 14), (3, 9), (4, 11), (5, 16)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 10), (1, 18), (2, 12), (3, 6), (4, 7), (5, 3)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 8), (1, 10), (2, 9), (3, 11), (4, 12), (5, 6)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 19), (1, 10), (2, 8), (3, 11), (4, 4), (5, 4)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 13), (1, 11), (2, 9), (3, 9), (4, 12), (5, 2)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run 995 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on cumoveroverlap
+08-14 19:31 analysis     INFO     ==========================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 5), (1, 7), (2, 44)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 22), (1, 28), (2, 6)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 29), (1, 21), (2, 6)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run 850 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on cumoveroverlap
+08-14 19:31 analysis     INFO     ==========================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 14), (1, 7), (2, 35)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 16), (1, 25), (2, 15)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 26), (1, 24), (2, 6)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run scale 1 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on cumoveroverlap
+08-14 19:31 analysis     INFO     ==========================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 24), (1, 32)]
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 32), (1, 24)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run scale 2 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on cumoveroverlap
+08-14 19:31 analysis     INFO     ==========================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 36), (1, 20)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 20), (1, 36)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run scale 3 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on cumoveroverlap
+08-14 19:31 analysis     INFO     ==========================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 32), (1, 24)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 24), (1, 32)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:31 analysis     INFO     Run full analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on avgdistovermatches
+08-14 19:31 analysis     INFO     ==============================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 4), (1, 7), (2, 9), (3, 8), (4, 11), (5, 17)]
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(1, 7), (2, 8), (3, 9), (4, 16), (5, 16)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 10), (1, 17), (2, 13), (3, 8), (4, 4), (5, 4)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 7), (1, 8), (2, 10), (3, 6), (4, 14), (5, 11)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 23), (1, 13), (2, 3), (3, 10), (4, 4), (5, 3)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 12), (1, 4), (2, 13), (3, 15), (4, 7), (5, 5)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run 995 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on avgdistovermatches
+08-14 19:31 analysis     INFO     ==============================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 8), (1, 10), (2, 38)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 15), (1, 30), (2, 11)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 33), (1, 16), (2, 7)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run 850 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on avgdistovermatches
+08-14 19:31 analysis     INFO     ==============================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 10), (1, 16), (2, 30)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 15), (1, 24), (2, 17)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 31), (1, 16), (2, 9)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run scale 1 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on avgdistovermatches
+08-14 19:31 analysis     INFO     ==============================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 30), (1, 26)]
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 26), (1, 30)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run scale 2 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on avgdistovermatches
+08-14 19:31 analysis     INFO     ==============================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 39), (1, 17)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 17), (1, 39)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run scale 3 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on avgdistovermatches
+08-14 19:31 analysis     INFO     ==============================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 38), (1, 18)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 18), (1, 38)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run analysis on col avgdist
+08-14 19:31 analysis     INFO     Run full analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on avgdist
+08-14 19:31 analysis     INFO     ===================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 6), (1, 12), (2, 5), (3, 8), (4, 19), (5, 6)]
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 3), (1, 7), (2, 16), (3, 8), (4, 8), (5, 14)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 21), (1, 15), (2, 5), (3, 7), (4, 5), (5, 3)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 11), (1, 9), (2, 10), (3, 15), (4, 8), (5, 3)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 13), (1, 3), (2, 8), (3, 11), (4, 7), (5, 14)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 2), (1, 10), (2, 12), (3, 7), (4, 9), (5, 16)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run 995 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:31 analysis     INFO     Position on avgdist
+08-14 19:31 analysis     INFO     ===================
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 9), (1, 27), (2, 20)]
+08-14 19:31 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 31), (1, 18), (2, 7)]
+08-14 19:31 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:31 analysis     INFO       [(0, 16), (1, 11), (2, 29)]
+08-14 19:31 analysis     INFO     
+08-14 19:31 analysis     INFO     Run 850 analysis
+
+08-14 19:31 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdist
+08-14 19:32 analysis     INFO     ===================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 15), (1, 16), (2, 25)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 28), (1, 19), (2, 9)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 13), (1, 21), (2, 22)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 1 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdist
+08-14 19:32 analysis     INFO     ===================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 29), (1, 27)]
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 27), (1, 29)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 2 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdist
+08-14 19:32 analysis     INFO     ===================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 37), (1, 19)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 19), (1, 37)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 3 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdist
+08-14 19:32 analysis     INFO     ===================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 34), (1, 22)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 22), (1, 34)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 1 wld
+
+08-14 19:32 analysis     INFO     Win Lose Draw
+08-14 19:32 analysis     INFO     =============
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 336
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 224
+08-14 19:32 analysis     INFO     draw: 0
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 2 wld
+
+08-14 19:32 analysis     INFO     Win Lose Draw
+08-14 19:32 analysis     INFO     =============
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 448
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 112
+08-14 19:32 analysis     INFO     draw: 0
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 3 wld
+
+08-14 19:32 analysis     INFO     Win Lose Draw
+08-14 19:32 analysis     INFO     =============
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 336
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 224
+08-14 19:32 analysis     INFO     draw: 0
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Running tracking stats analysis for year 2007
+08-14 19:32 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:32 analysis     INFO     Run full analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on cumoveroverlap
+08-14 19:32 analysis     INFO     ==========================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 4), (1, 4), (2, 12), (3, 15), (4, 12), (5, 9)]
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 1), (1, 3), (2, 2), (3, 8), (4, 11), (5, 31)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 10), (1, 10), (2, 12), (3, 8), (4, 10), (5, 6)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 5), (1, 15), (2, 9), (3, 8), (4, 14), (5, 5)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 21), (1, 15), (2, 10), (3, 6), (4, 2), (5, 2)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 15), (1, 9), (2, 11), (3, 11), (4, 7), (5, 3)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run 995 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on cumoveroverlap
+08-14 19:32 analysis     INFO     ==========================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 9), (1, 12), (2, 35)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 13), (1, 27), (2, 16)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 34), (1, 17), (2, 5)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run 850 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on cumoveroverlap
+08-14 19:32 analysis     INFO     ==========================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 4), (1, 10), (2, 42)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 15), (1, 32), (2, 9)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 37), (1, 14), (2, 5)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 1 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on cumoveroverlap
+08-14 19:32 analysis     INFO     ==========================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 44), (1, 12)]
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 12), (1, 44)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 2 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on cumoveroverlap
+08-14 19:32 analysis     INFO     ==========================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 29), (1, 27)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 27), (1, 29)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 3 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on cumoveroverlap
+08-14 19:32 analysis     INFO     ==========================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 35), (1, 21)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 21), (1, 35)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:32 analysis     INFO     Run full analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdistovermatches
+08-14 19:32 analysis     INFO     ==============================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 4), (1, 6), (2, 16), (3, 10), (4, 12), (5, 8)]
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 1), (1, 2), (2, 3), (3, 11), (4, 10), (5, 29)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 9), (1, 12), (2, 8), (3, 8), (4, 11), (5, 8)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 5), (1, 15), (2, 9), (3, 7), (4, 16), (5, 4)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 25), (1, 9), (2, 9), (3, 9), (4, 3), (5, 1)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 12), (1, 12), (2, 11), (3, 11), (4, 4), (5, 6)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run 995 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdistovermatches
+08-14 19:32 analysis     INFO     ==============================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 10), (1, 17), (2, 29)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 14), (1, 21), (2, 21)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 32), (1, 18), (2, 6)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run 850 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdistovermatches
+08-14 19:32 analysis     INFO     ==============================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 7), (1, 8), (2, 41)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 17), (1, 31), (2, 8)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 32), (1, 17), (2, 7)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 1 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdistovermatches
+08-14 19:32 analysis     INFO     ==============================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 41), (1, 15)]
+08-14 19:32 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 15), (1, 41)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 2 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdistovermatches
+08-14 19:32 analysis     INFO     ==============================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 27), (1, 29)]
+08-14 19:32 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 29), (1, 27)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run scale 3 analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:32 analysis     INFO     Position on avgdistovermatches
+08-14 19:32 analysis     INFO     ==============================
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 36), (1, 20)]
+08-14 19:32 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:32 analysis     INFO       [(0, 20), (1, 36)]
+08-14 19:32 analysis     INFO     
+08-14 19:32 analysis     INFO     Run analysis on col avgdist
+08-14 19:32 analysis     INFO     Run full analysis
+
+08-14 19:32 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on avgdist
+08-14 19:33 analysis     INFO     ===================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 3), (1, 5), (2, 10), (3, 11), (4, 10), (5, 17)]
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 4), (1, 1), (2, 9), (3, 13), (4, 8), (5, 21)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 10), (1, 11), (2, 6), (3, 8), (4, 15), (5, 6)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 14), (1, 11), (2, 12), (3, 10), (4, 6), (5, 3)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 11), (1, 12), (2, 10), (3, 7), (4, 13), (5, 3)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 14), (1, 16), (2, 9), (3, 7), (4, 4), (5, 6)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run 995 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on avgdist
+08-14 19:33 analysis     INFO     ===================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 12), (1, 13), (2, 31)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 17), (1, 23), (2, 16)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 27), (1, 20), (2, 9)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run 850 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on avgdist
+08-14 19:33 analysis     INFO     ===================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 8), (1, 8), (2, 40)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 20), (1, 31), (2, 5)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 28), (1, 17), (2, 11)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run scale 1 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on avgdist
+08-14 19:33 analysis     INFO     ===================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 31), (1, 25)]
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 25), (1, 31)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run scale 2 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on avgdist
+08-14 19:33 analysis     INFO     ===================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 24), (1, 32)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 32), (1, 24)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run scale 3 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on avgdist
+08-14 19:33 analysis     INFO     ===================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 25), (1, 31)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 31), (1, 25)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run scale 1 wld
+
+08-14 19:33 analysis     INFO     Win Lose Draw
+08-14 19:33 analysis     INFO     =============
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 224
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 448
+08-14 19:33 analysis     INFO     draw: 280
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run scale 2 wld
+
+08-14 19:33 analysis     INFO     Win Lose Draw
+08-14 19:33 analysis     INFO     =============
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 336
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 336
+08-14 19:33 analysis     INFO     draw: 280
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run scale 3 wld
+
+08-14 19:33 analysis     INFO     Win Lose Draw
+08-14 19:33 analysis     INFO     =============
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 392
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 280
+08-14 19:33 analysis     INFO     draw: 280
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Running tracking stats analysis for year 2008
+08-14 19:33 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:33 analysis     INFO     Run full analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on cumoveroverlap
+08-14 19:33 analysis     INFO     ==========================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 1), (1, 1), (2, 2), (3, 5), (4, 11), (5, 36)]
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 5), (1, 6), (2, 9), (3, 8), (4, 16), (5, 12)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 3), (1, 8), (2, 13), (3, 11), (4, 15), (5, 6)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 16), (1, 18), (2, 7), (3, 10), (4, 5)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 9), (1, 5), (2, 14), (3, 18), (4, 9), (5, 1)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 22), (1, 18), (2, 11), (3, 4), (5, 1)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run 995 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on cumoveroverlap
+08-14 19:33 analysis     INFO     ==========================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 5), (1, 4), (2, 47)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 19), (1, 29), (2, 8)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 32), (1, 23), (2, 1)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run 850 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on cumoveroverlap
+08-14 19:33 analysis     INFO     ==========================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 6), (1, 10), (2, 40)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 19), (1, 26), (2, 11)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 31), (1, 20), (2, 5)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run scale 1 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on cumoveroverlap
+08-14 19:33 analysis     INFO     ==========================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 15), (1, 41)]
+08-14 19:33 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 41), (1, 15)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run scale 2 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on cumoveroverlap
+08-14 19:33 analysis     INFO     ==========================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 13), (1, 43)]
+08-14 19:33 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 43), (1, 13)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run scale 3 analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:33 analysis     INFO     Position on cumoveroverlap
+08-14 19:33 analysis     INFO     ==========================
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 13), (1, 43)]
+08-14 19:33 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:33 analysis     INFO       [(0, 43), (1, 13)]
+08-14 19:33 analysis     INFO     
+08-14 19:33 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:33 analysis     INFO     Run full analysis
+
+08-14 19:33 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdistovermatches
+08-14 19:34 analysis     INFO     ==============================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 2), (2, 2), (3, 8), (4, 9), (5, 35)]
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 3), (1, 6), (2, 10), (3, 8), (4, 19), (5, 10)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 3), (1, 9), (2, 8), (3, 13), (4, 13), (5, 10)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 14), (1, 13), (2, 12), (3, 11), (4, 6)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 11), (1, 7), (2, 19), (3, 11), (4, 7), (5, 1)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 23), (1, 21), (2, 5), (3, 5), (4, 2)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run 995 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdistovermatches
+08-14 19:34 analysis     INFO     ==============================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 6), (1, 6), (2, 44)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 14), (1, 32), (2, 10)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 36), (1, 18), (2, 2)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run 850 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdistovermatches
+08-14 19:34 analysis     INFO     ==============================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 4), (1, 12), (2, 40)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 18), (1, 25), (2, 13)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 34), (1, 19), (2, 3)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run scale 1 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdistovermatches
+08-14 19:34 analysis     INFO     ==============================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 14), (1, 42)]
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 42), (1, 14)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run scale 2 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdistovermatches
+08-14 19:34 analysis     INFO     ==============================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 16), (1, 40)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 40), (1, 16)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run scale 3 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdistovermatches
+08-14 19:34 analysis     INFO     ==============================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 18), (1, 38)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 38), (1, 18)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run analysis on col avgdist
+08-14 19:34 analysis     INFO     Run full analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdist
+08-14 19:34 analysis     INFO     ===================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 7), (1, 4), (2, 6), (3, 12), (4, 12), (5, 15)]
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 4), (1, 12), (2, 9), (3, 7), (4, 13), (5, 11)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 24), (1, 9), (2, 9), (3, 10), (4, 2), (5, 2)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 15), (1, 13), (2, 11), (3, 8), (4, 7), (5, 2)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 3), (1, 7), (2, 8), (3, 11), (4, 15), (5, 12)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 3), (1, 11), (2, 13), (3, 8), (4, 7), (5, 14)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run 995 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdist
+08-14 19:34 analysis     INFO     ===================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 10), (1, 20), (2, 26)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 41), (1, 10), (2, 5)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 5), (1, 26), (2, 25)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run 850 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdist
+08-14 19:34 analysis     INFO     ===================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 16), (1, 11), (2, 29)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 30), (1, 20), (2, 6)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 10), (1, 25), (2, 21)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run scale 1 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdist
+08-14 19:34 analysis     INFO     ===================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 23), (1, 33)]
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 33), (1, 23)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run scale 2 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdist
+08-14 19:34 analysis     INFO     ===================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 32), (1, 24)]
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 24), (1, 32)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run scale 3 analysis
+
+08-14 19:34 analysis     INFO     Analysing 56 ensemble members
+08-14 19:34 analysis     INFO     Position on avgdist
+08-14 19:34 analysis     INFO     ===================
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 26), (1, 30)]
+08-14 19:34 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:34 analysis     INFO       [(0, 30), (1, 26)]
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run scale 1 wld
+
+08-14 19:34 analysis     INFO     Win Lose Draw
+08-14 19:34 analysis     INFO     =============
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 280
+08-14 19:34 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 560
+08-14 19:34 analysis     INFO     draw: 112
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run scale 2 wld
+
+08-14 19:34 analysis     INFO     Win Lose Draw
+08-14 19:34 analysis     INFO     =============
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 224
+08-14 19:34 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 616
+08-14 19:34 analysis     INFO     draw: 112
+08-14 19:34 analysis     INFO     
+08-14 19:34 analysis     INFO     Run scale 3 wld
+
+08-14 19:35 analysis     INFO     Win Lose Draw
+08-14 19:35 analysis     INFO     =============
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 224
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 616
+08-14 19:35 analysis     INFO     draw: 112
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Running tracking stats analysis for year 2009
+08-14 19:35 analysis     INFO     Run analysis on col cumoveroverlap
+08-14 19:35 analysis     INFO     Run full analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on cumoveroverlap
+08-14 19:35 analysis     INFO     ==========================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 7), (1, 5), (2, 6), (3, 8), (4, 9), (5, 21)]
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 9), (1, 6), (2, 5), (3, 9), (4, 10), (5, 17)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 16), (1, 10), (2, 9), (3, 9), (4, 11), (5, 1)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 12), (1, 14), (2, 8), (3, 9), (4, 8), (5, 5)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 9), (1, 6), (2, 17), (3, 11), (4, 8), (5, 5)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 3), (1, 15), (2, 11), (3, 10), (4, 10), (5, 7)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run 995 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on cumoveroverlap
+08-14 19:35 analysis     INFO     ==========================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 10), (1, 12), (2, 34)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 23), (1, 24), (2, 9)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 23), (1, 20), (2, 13)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run 850 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on cumoveroverlap
+08-14 19:35 analysis     INFO     ==========================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 19), (1, 7), (2, 30)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 23), (1, 18), (2, 15)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 14), (1, 31), (2, 11)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 1 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on cumoveroverlap
+08-14 19:35 analysis     INFO     ==========================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 26), (1, 30)]
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 30), (1, 26)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 2 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on cumoveroverlap
+08-14 19:35 analysis     INFO     ==========================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 31), (1, 25)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 25), (1, 31)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 3 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on cumoveroverlap
+08-14 19:35 analysis     INFO     ==========================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 28), (1, 28)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 28), (1, 28)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run analysis on col avgdistovermatches
+08-14 19:35 analysis     INFO     Run full analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdistovermatches
+08-14 19:35 analysis     INFO     ==============================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 5), (1, 10), (2, 9), (3, 10), (4, 8), (5, 14)]
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 8), (1, 6), (2, 3), (3, 7), (4, 10), (5, 22)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 15), (1, 11), (2, 12), (3, 9), (4, 7), (5, 2)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 11), (1, 9), (2, 8), (3, 9), (4, 12), (5, 7)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 15), (1, 9), (2, 10), (3, 11), (4, 9), (5, 2)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 2), (1, 11), (2, 14), (3, 10), (4, 10), (5, 9)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run 995 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdistovermatches
+08-14 19:35 analysis     INFO     ==============================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 10), (1, 13), (2, 33)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 22), (1, 24), (2, 10)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 24), (1, 19), (2, 13)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run 850 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdistovermatches
+08-14 19:35 analysis     INFO     ==============================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 17), (1, 12), (2, 27)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 23), (1, 19), (2, 14)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 16), (1, 25), (2, 15)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 1 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdistovermatches
+08-14 19:35 analysis     INFO     ==============================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 36), (1, 20)]
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 20), (1, 36)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 2 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdistovermatches
+08-14 19:35 analysis     INFO     ==============================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 34), (1, 22)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 22), (1, 34)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 3 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdistovermatches
+08-14 19:35 analysis     INFO     ==============================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 35), (1, 21)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 21), (1, 35)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run analysis on col avgdist
+08-14 19:35 analysis     INFO     Run full analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdist
+08-14 19:35 analysis     INFO     ===================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 6), (1, 9), (2, 7), (3, 11), (4, 9), (5, 14)]
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 9), (1, 4), (2, 4), (3, 4), (4, 13), (5, 22)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 18), (1, 11), (2, 16), (3, 3), (4, 7), (5, 1)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 5), (1, 12), (2, 6), (3, 14), (4, 11), (5, 8)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 17), (1, 15), (2, 9), (3, 7), (4, 5), (5, 3)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 1), (1, 5), (2, 14), (3, 17), (4, 11), (5, 8)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run 995 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdist
+08-14 19:35 analysis     INFO     ===================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 7), (1, 14), (2, 35)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 23), (1, 24), (2, 9)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 26), (1, 18), (2, 12)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run 850 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdist
+08-14 19:35 analysis     INFO     ===================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 16), (1, 13), (2, 27)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 23), (1, 20), (2, 13)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 17), (1, 23), (2, 16)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 1 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdist
+08-14 19:35 analysis     INFO     ===================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 36), (1, 20)]
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 20), (1, 36)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 2 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdist
+08-14 19:35 analysis     INFO     ===================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 40), (1, 16)]
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 16), (1, 40)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 3 analysis
+
+08-14 19:35 analysis     INFO     Analysing 56 ensemble members
+08-14 19:35 analysis     INFO     Position on avgdist
+08-14 19:35 analysis     INFO     ===================
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 43), (1, 13)]
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour
+08-14 19:35 analysis     INFO       [(0, 13), (1, 43)]
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 1 wld
+
+08-14 19:35 analysis     INFO     Win Lose Draw
+08-14 19:35 analysis     INFO     =============
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:995;tracker:nearest_neighbour won: 336
+08-14 19:35 analysis     INFO     good_matches-scale:1;pl:850;tracker:nearest_neighbour won: 112
+08-14 19:35 analysis     INFO     draw: 168
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 2 wld
+
+08-14 19:35 analysis     INFO     Win Lose Draw
+08-14 19:35 analysis     INFO     =============
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:995;tracker:nearest_neighbour won: 280
+08-14 19:35 analysis     INFO     good_matches-scale:2;pl:850;tracker:nearest_neighbour won: 168
+08-14 19:35 analysis     INFO     draw: 168
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     Run scale 3 wld
+
+08-14 19:35 analysis     INFO     Win Lose Draw
+08-14 19:35 analysis     INFO     =============
+08-14 19:35 analysis     INFO     
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:995;tracker:nearest_neighbour won: 280
+08-14 19:35 analysis     INFO     good_matches-scale:3;pl:850;tracker:nearest_neighbour won: 168
+08-14 19:35 analysis     INFO     draw: 168
+08-14 19:35 analysis     INFO     
